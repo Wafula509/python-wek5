@@ -1,0 +1,1 @@
+This program demonstrates how classes, inheritance, and polymorphism work together to create flexible and organized code. The Superhero and FlyingSuperhero classes show how a subclass can extend a parent class, and the Vehicle classes show how different objects can respond to the same method call in unique ways.
